@@ -1,0 +1,32 @@
+body {
+	font-family: lucida console;
+	color: white;
+	background-color: blue;
+}
+
+.Errorscreen {
+	font-weight: bold;
+	font-size: 36px;
+}
+
+.joblist {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 20px;
+	border: 3px dotted #FFF;
+	padding: 10px 10px 10px 10px;
+}
+
+h2 { 
+ 	font-size: 16px;
+ }
+
+h3 {
+	font-size: 12px;
+}
+section {
+	margin: 10px;
+}
+
